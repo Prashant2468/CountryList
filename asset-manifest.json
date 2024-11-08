@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Prashant2468/country-API.git/static/css/main.c0818ceb.css",
+    "main.js": "/Prashant2468/country-API.git/static/js/main.802bc617.js",
+    "index.html": "/Prashant2468/country-API.git/index.html",
+    "main.c0818ceb.css.map": "/Prashant2468/country-API.git/static/css/main.c0818ceb.css.map",
+    "main.802bc617.js.map": "/Prashant2468/country-API.git/static/js/main.802bc617.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0818ceb.css",
+    "static/js/main.802bc617.js"
+  ]
+}
