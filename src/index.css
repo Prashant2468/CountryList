@@ -1,0 +1,58 @@
+.box{
+  display: flex;
+}
+.book {
+  background: url("https://www.texturepalace.com/gallery/book/2016-02-08-leather-book-cover/leather-book-textures--3.jpg"); /* Example direct image URL */
+  height: 400px;
+  width: 250px;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 10px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  transform: rotateX(0deg);
+  box-shadow: 1px 0px 1px rgba(0, 0, 0), 1px 0 1px rgb(255, 254, 254),
+    2px 2px 1px rgba(0, 0, 0), 4px 4px 1px rgb(255, 254, 254),
+    6px 6px 1px rgba(0, 0, 0), 8px 8px 1px rgb(255, 254, 254),
+    10px 10px 1px rgba(0, 0, 0), 12px 12px 1px rgb(255, 254, 254),
+    14px 14px 1px rgba(0, 0, 0), 16px 16px 1px rgb(255, 254, 254),
+    18px 18px 1px rgba(0, 0, 0), 20px 20px 1px rgb(255, 254, 254);
+    /* 0px 2px 1px rgba(0, 0, 0), 0px 4px 1px rgb(255, 254, 254),
+    0px 6px 1px rgba(0, 0, 0), 0px 8px 1px rgb(255, 254, 254),
+    0px 10px 1px rgba(0, 0, 0), 0px 12px 1px rgb(255, 254, 254),
+    0px 14px 1px rgba(0, 0, 0), 0px 16px 1px rgb(255, 254, 254),
+    0px 18px 1px rgba(0, 0, 0), 0px 20px 1px rgb(255, 254, 254),
+    0px 22px 1px rgba(0, 0, 0), 0px 24px 1px rgb(255, 254, 254); */
+  margin-left: 30px;
+}
+
+.bookname {
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(222, 220, 220);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 30px;
+}
+.author {
+  font-size: 15px;
+  font-weight: bold;
+  color: rgb(219, 218, 218);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 30px;
+}
+.price {
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(255, 251, 251);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 100px;
+}
+.btnbuy {
+  width: 100px;
+  height: 30px;
+  background-color: rgb(67, 141, 244);
+  border: none;
+  color: white;
+  font-size: 15px;
+  border-radius: 5px;
+}
