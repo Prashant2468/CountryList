@@ -49,6 +49,11 @@ This project is a React-based website that displays country information, includi
    
    https://restcountries.com/v3.1/all
 
+## 📌 Sneak Peek of Main Page
+
+![ss](https://github.com/Prashant2468/country-API/blob/main/public/country_img.png)
+![ss](https://github.com/Prashant2468/country-API/blob/main/public/country_recording.mp4)
+
 <br/>
 
 ## Contact
