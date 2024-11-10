@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "./MoviesComp.css";
 
-const MoviesComp = () => {
+const CountryComp = () => {
   const [hoveredIndex, setHoveredIndex] = useState(null);
   const [data, setData] = useState([]);
   const [searchQuery, setSearchQuery] = useState(""); // State for search query
@@ -83,4 +83,4 @@ const MoviesComp = () => {
   );
 };
 
-export default MoviesComp;
+export default CountryComp;
