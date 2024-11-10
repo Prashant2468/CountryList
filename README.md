@@ -44,20 +44,28 @@ This project is a React-based website that displays country information, includi
 
 ## Fetch Data From Country API
 
-3. This project fetches data from the REST [Countries API](https://www.example.com) to display country information.  
+1. This project fetches data from the REST [Countries API](https://www.example.com) to display country information.  
    ```bash
    
    https://restcountries.com/v3.1/all
 
+<br/>
+
+## Functionality
+
+ * ***Search Bar*** : Filters displayed countries as you type
+   
+ * ***Hover Effect***: Shows capital and currency details when hovering over a country flag.
+
+<br/>
+
 ## 📌 Sneak Peek of Main Page
 
 ![ss](https://github.com/Prashant2468/country-API/blob/main/public/country_img.png)
-![ss](https://github.com/Prashant2468/country-API/blob/main/public/country_recording.mp4)
 
 <br/>
 
 ## Contact
-
 
 Feel free to reach me through the below handles if you'd like to contact me.
 
