@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import styled from "styled-components";
-import MoviesComp from "./Components/CountryComp.js";
+import CountryComp from "./Components/CountryComp.js";
 
 const StyledContainer = styled.div`
   display: flex;
