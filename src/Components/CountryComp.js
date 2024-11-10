@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import "./MoviesComp.css";
+import "./CountryComp.css";
 
 const CountryComp = () => {
   const [hoveredIndex, setHoveredIndex] = useState(null);
