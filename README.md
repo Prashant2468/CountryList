@@ -44,7 +44,7 @@ This project is a React-based website that displays country information, includi
 
 ## Fetch Data From Country API
 
-1. This project fetches data from the REST [Countries API](https://www.example.com) to display country information.  
+1. This project fetches data from the REST [Countries API](https://restcountries.com/v3.1/all) to display country information.  
    ```bash
    
    https://restcountries.com/v3.1/all
