@@ -62,9 +62,11 @@ This project is a React-based website that displays country information, includi
 ## 📌 Sneak Peek of Main Page
 
 ![ss](https://github.com/Prashant2468/CountryList/blob/main/public/country_img.png)
-<video src="https://github.com/Prashant2468/CountryList/blob/main/public/CountryList.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/b2cbb576-047b-4297-b453-7266b4f3b792
+
+
 
 <br/>
 
