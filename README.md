@@ -74,8 +74,7 @@ https://github.com/user-attachments/assets/b2cbb576-047b-4297-b453-7266b4f3b792
 
 Feel free to reach me through the below handles if you'd like to contact me.
 
-[![linkedin](linkedin.com/in/i-am-patil-prashant)](linkedin.com/in/i-am-patil-prashant)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_prashant82/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_prashant82) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/i-am-patil-prashant) 
 
 
 
